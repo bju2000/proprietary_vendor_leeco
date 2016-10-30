@@ -799,7 +799,10 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    qdcm_calib_data_le_x2_mdss_dsi_sharp_qhd_dualdsi_cmd \
+    qdcm_calib_data_le_x2_mdss_dsi_truly_qhd_dualdsi_cmd_pvt \
+    qdcm_calib_data_mdss_dsi_sharp_qhd_dualdsi_cmd
 endif
 
 -include vendor/extra/devices.mk
