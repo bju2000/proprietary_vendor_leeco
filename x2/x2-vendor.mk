@@ -493,7 +493,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/x2/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/leeco/x2/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/leeco/x2/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
-    vendor/leeco/x2/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
+#    vendor/leeco/x2/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
     vendor/leeco/x2/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/leeco/x2/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/leeco/x2/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
